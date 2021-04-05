@@ -9,6 +9,9 @@
 
 ### 8 kyu
 
+- countingSheep.js
+- milesPerGallonToKilometersPerLiter.js
+- preFizzBuzzWorkout1.js
 - priceOfMangos.js
 - swapValues.js
-- milesPerGallonToKilometersPerLiter.js
+
