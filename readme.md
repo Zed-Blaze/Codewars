@@ -6,6 +6,9 @@
 
 - calculatingWithFunctions.js
 
+### 7 kyu
+
+- numberOfDivisions.js
 
 ### 8 kyu
 

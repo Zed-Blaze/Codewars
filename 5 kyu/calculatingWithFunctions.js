@@ -1,3 +1,5 @@
+// 5 kyu
+
 function expression(number, operation){
 	if(!operation)
 		return number;
