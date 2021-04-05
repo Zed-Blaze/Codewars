@@ -2,6 +2,6 @@
 
 
 
-### 6 kyu
+### 5 kyu
 
 -   calculatingWithFunctions.js
