@@ -1,23 +1,24 @@
-## Codewars katas
+# Codewars katas
 
 
 
 ### 5 kyu
 
-- calculatingWithFunctions.js
+- Calculating with Functions.js
 
 ### 7 kyu
 
-- numberOfDivisions.js
+- Count the divisors of a number.js
+- Number of Divisions.js
 
 ### 8 kyu
 
-- catYearsDogYears.js
-- countingSheep.js
-- fixme-replaceAllDots.js
-- milesPerGallonToKilometersPerLiter.js
-- preFizzBuzzWorkout1.js
-- priceOfMangos.js
-- reversedSequence.js
-- swapValues.js
+- Cat years, Dog years.js
+- Counting sheep....js
+- FIXME Replace all dots.js
+- Miles per gallon to kilometers per liter.js
+- Pre-FizzBuzz Workout #1.js
+- Price of Mangoes.js
+- Reversed sequence.js
+- Swap Values.js
 
