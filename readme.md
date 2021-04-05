@@ -4,4 +4,11 @@
 
 ### 5 kyu
 
--   calculatingWithFunctions.js
+- calculatingWithFunctions.js
+
+
+### 8 kyu
+
+- priceOfMangos.js
+- swapValues.js
+- milesPerGallonToKilometersPerLiter.js
