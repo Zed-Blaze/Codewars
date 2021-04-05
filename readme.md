@@ -20,6 +20,7 @@
 ## 8 kyu
 
 - Cat years, Dog years.js
+- Convert number to reversed array of digits.js
 - Counting sheep....js
 - FIXME Replace all dots.js
 - Miles per gallon to kilometers per liter.js
