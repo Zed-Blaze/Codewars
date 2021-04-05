@@ -15,5 +15,6 @@
 - milesPerGallonToKilometersPerLiter.js
 - preFizzBuzzWorkout1.js
 - priceOfMangos.js
+- reversedSequence.js
 - swapValues.js
 
