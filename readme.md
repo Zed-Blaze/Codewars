@@ -6,6 +6,7 @@
 
 ## 5 kyu
 
+- [Calculating with Functions.js](https://github.com/zeddu/Codewars/blob/main/5%20kyu/Calculating%20with%20Functions.js "Calculating with Functions.js github link")
 - Calculating with Functions.js
 
 ## 6 kyu
